@@ -1,0 +1,6 @@
+export const ActionTypes = {
+    LOGIN: "LOGIN",
+    ADD_TODO: "ADD_TODO"
+    COMPLETED_TODO: "COMPLETED_TODO"
+    DELETE_TODO: "DELETE_TODO"
+}
